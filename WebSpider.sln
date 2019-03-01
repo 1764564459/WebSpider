@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{F87F27C4-56BA-4811-A1E9-192FB7E1F348}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{DE00C994-72EB-420F-8464-6477EAC41B05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSpider", "WebSpider\WebSpider.csproj", "{9BD12637-966E-47B9-9AAD-6E6284839708}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F87F27C4-56BA-4811-A1E9-192FB7E1F348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F87F27C4-56BA-4811-A1E9-192FB7E1F348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F87F27C4-56BA-4811-A1E9-192FB7E1F348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F87F27C4-56BA-4811-A1E9-192FB7E1F348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE00C994-72EB-420F-8464-6477EAC41B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE00C994-72EB-420F-8464-6477EAC41B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE00C994-72EB-420F-8464-6477EAC41B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE00C994-72EB-420F-8464-6477EAC41B05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BD12637-966E-47B9-9AAD-6E6284839708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BD12637-966E-47B9-9AAD-6E6284839708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BD12637-966E-47B9-9AAD-6E6284839708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BD12637-966E-47B9-9AAD-6E6284839708}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3196634B-DBAB-4C5D-9492-93DDF8DF0C26}
+	EndGlobalSection
+EndGlobal
